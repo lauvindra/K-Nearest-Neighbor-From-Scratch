@@ -10,9 +10,26 @@ To store all the available data and classifies a new data point based on similar
 # 3. K-NN Algorithm
 <img src="image/1.png" width="460" height="320">
 
-* The figure above shows the two different categores of data A and B, a new data point is added. The category of the new data point is determined by    calculating the distance between two points. There are several types of distance metrics. In this project I have implemented two of those which is Eulidean Distance which is the most popular and the Minkowski Distance.
+* The figure above shows the two different categores of data A and B, a new data point is added. 
+* The category of the new data point is determined by    calculating the distance between two points. 
+* There are several types of distance metrics. In this project I have implemented two of those which is Eulidean Distance which is the most popular and the Minkowski Distance.
 
 
+Minkowski Distance
+
+<img src="image/6.png" width="350" height="120">
+
+Euclidean Distance
+
+<img src="image/3.png" width="350" height="120">
+
+* By calculating Minkowski Distance or Euclidean Distance we can find the category of the new data point.
+<img src="image/4.png" width="440" height="300">
+
+* We can determine the value of K by iterating through a start point and end point 
+* The best K value is the one with the lowest error rate.
+
+<img src="image/5.png" width="460" height="260">
 
 # 4.Application of KNN
 
