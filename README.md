@@ -24,6 +24,7 @@ Euclidean Distance
 <img src="image/3.png" width="350" height="120">
 
 * By calculating Minkowski Distance or Euclidean Distance we can find the category of the new data point.
+
 <img src="image/4.png" width="440" height="300">
 
 * We can determine the value of K by iterating through a start point and end point 
@@ -31,6 +32,8 @@ Euclidean Distance
 
 <img src="image/5.png" width="460" height="260">
 
+
+ 
 # 4.Application of KNN
 
 * Climate Forecasting 🌧
@@ -52,4 +55,4 @@ Euclidean Distance
 * Accuracy depends on quality of the data
 * Requires large amount of data and storage to store all the training data
 * Sometimes the distance between data objects become less distinct
-
+* Please do check my hand written notes and my implementation in KNN using iris dataset  for more detailed information.
