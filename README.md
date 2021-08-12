@@ -29,6 +29,7 @@ Euclidean Distance
 
 * We can determine the value of K by iterating through a start point and end point 
 * The best K value is the one with the lowest error rate.
+* This is called the **Elbow Method**
 
 <img src="image/5.png" width="460" height="260">
 
