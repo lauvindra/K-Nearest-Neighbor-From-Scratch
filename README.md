@@ -55,4 +55,5 @@ Euclidean Distance
 * Accuracy depends on quality of the data
 * Requires large amount of data and storage to store all the training data
 * Sometimes the distance between data objects become less distinct
-* Please do check my hand written notes and my implementation in KNN using iris dataset  for more detailed information.
+
+Please do check my hand written notes and my implementation in KNN using iris dataset  for more detailed information.
